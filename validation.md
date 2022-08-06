@@ -1,6 +1,6 @@
 # Validation
 
-- enforce business logic
+- enforce company logic
 - preserve data integrity
 - avert malicious inputs
 
